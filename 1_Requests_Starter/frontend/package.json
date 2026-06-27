@@ -31,5 +31,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "ejs": "^3.1.10",
+    "moment": "^2.29.4"
   }
 }
